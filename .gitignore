@@ -1,0 +1,6 @@
+# Arquivos de configuração local
+.env
+*.log
+
+# Dependências de desenvolvimento (geradas automaticamente)
+node_modules/
