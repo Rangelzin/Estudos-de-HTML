@@ -19,4 +19,4 @@ Sinta-se à vontade para contribuir com novos projetos ou melhorias. Abra um pul
 
 ## Licença
 
-Este repositório é disponibilizado sob a [Licença MIT](LICENSE).
+Este repositório é disponibilizado sob a [Licença MIT](LICENSE.md).
